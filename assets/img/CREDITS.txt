@@ -1,0 +1,13 @@
+Фото на сайте
+
+Предоставлены заказчиком (оригиналы — Downloads\castory-photos):
+hero, process, online, offline, gift-1, gift-2, gift-3,
+t-beauty, t-games, t-hobby, t-cooking, t-fashion, t-lifestyle,
+t-chat (иллюстрация перекрашена в фирменный градиент).
+
+Стоковые фото CC0 / public domain (Openverse), можно использовать без указания автора:
+heart: Red Neon — https://stocksnap.io/photo/red-neon-1MB7WMS2HX (CC0, stocksnap)
+t-travel: Still Items — https://stocksnap.io/photo/still-items-FLI26W5VXU (CC0, stocksnap)
+t-music: Woman Headphones — https://stocksnap.io/photo/woman-headphones-NOLZXJLYKF (CC0, stocksnap)
+t-cinema: Free popcorn box image — https://www.rawpixel.com/image/5922171/photo-image-background-public-domain-food (CC0, rawpixel)
+t-culture: Book Reading — https://stocksnap.io/photo/book-reading-H07QQ5ZX7S (CC0, stocksnap)
